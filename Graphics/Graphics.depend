@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1556538178 source:c:\users\mohamed samy\desktop\graphics\main.cpp
+	<tchar.h>
+	<windows.h>
+
+1556538178 source:e:\fci\semester#6\graphics\new folder\graphics\main.cpp
+	<tchar.h>
+	<windows.h>
+
+1556546456 source:c:\users\mahmoud\downloads\graphics-master\graphics\main.cpp
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+
